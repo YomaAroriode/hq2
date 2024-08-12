@@ -6,7 +6,7 @@ export default function SectionFour() {
 			<section className='mt-10 px-6 md:mt-20 lg:mt-28'>
 				<p className='text-center text-xl font-medium md:text-2xl lg:text-4xl'>
 					<span className='font-bold'> Our featured SSP </span>
-					(Soft Service Provider) can provide you with an efficient and
+					(Soft Service Providers) can provide you with an efficient and
 					convenient solution
 				</p>
 

@@ -40,7 +40,13 @@ export default function Search() {
 			<div className='flex flex-wrap gap-3 md:gap-5'>
 				{[
 					'HVAC maintenance',
-					'IT repairs and installations',
+					'IT repairs',
+					'Elect/Elect repairs',
+					'Mechanical repairs',
+					'Building maintenance',
+					'Cleaning service',
+					'Furniture & Fittings',
+					'Event service',
 					'plumbing works',
 				].map((item, index) => (
 					<span
