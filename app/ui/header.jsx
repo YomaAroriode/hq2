@@ -22,7 +22,7 @@ export default function Navbar() {
 							className='flex items-center gap-2 whitespace-nowrap py-3 text-lg focus:outline-none lg:flex-1'
 						>
 							{/* logo goes here */}
-							HQ2
+							HQ2 Soft...
 						</a>
 
 						{/*      <!-- Mobile trigger --> */}

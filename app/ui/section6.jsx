@@ -25,7 +25,7 @@ export default function SectionSix() {
 
 							<div>
 								<p className='mb-5 text-sm font-medium tracking-wide md:text-base lg:text-xl'>
-									Build your team of local, background-checked Workers to help
+									Build your team of local, background-verified Workers to help
 									with-- and for-- life. Whatever you need, they’ve got it
 									covered.
 								</p>
@@ -42,6 +42,20 @@ export default function SectionSix() {
 									<li className='flex flex-row items-center gap-3'>
 										<FaCircleCheck />
 										<p>Save your favorites to book again and again</p>
+									</li>
+									<li className='flex flex-row items-center gap-3'>
+										<FaCircleCheck />
+										<p>
+											Service level agreement (SLA) available for subscription
+											and premium services
+										</p>
+									</li>
+									<li className='flex flex-row items-center gap-3'>
+										<FaCircleCheck />
+										<p>
+											Get trained to become certified SSP with us and get
+											connected to unlimited job opportunities
+										</p>
 									</li>
 								</ul>
 							</div>

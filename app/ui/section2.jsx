@@ -8,7 +8,7 @@ export default function SectionTwo() {
 					<div className='relative grid grid-cols-4 gap-10 md:grid-cols-8 md:gap-14 lg:grid-cols-12 lg:gap-20'>
 						<div className='order-2 col-span-4 md:order-1 lg:col-span-6'>
 							<p className='mb-5 w-fit bg-custom-green px-5 py-2 text-lg tracking-wide text-black md:text-2xl'>
-								24H Turnaround Time
+								12 - 48 hours around Time
 							</p>
 
 							<p className='mb-5 text-xl font-semibold tracking-widest md:text-2xl lg:text-3xl'>

@@ -74,7 +74,7 @@ export default function Testimonials() {
 					</div>
 
 					<p className='cursor-pointer font-bold hover:text-custom-yellow'>
-						Check all 2.000 reviews
+						Check all 10 reviews
 					</p>
 				</div>
 			</section>

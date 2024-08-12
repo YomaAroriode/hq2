@@ -13,19 +13,17 @@ export default function SectionOne() {
 
 						<div className='col-span-4 mb-10 lg:col-span-6'>
 							<p className='mb-5 w-fit bg-custom-yellow px-5 py-2 text-lg tracking-wide text-black md:text-2xl'>
-								Run errands, not you!
+								Getting quality jobs done for individuals and organisations!
 							</p>
 
 							<p className='mb-5 text-xl font-semibold tracking-widest md:text-2xl lg:text-3xl'>
-								<span className='font-bold'>On-demand</span> service designed
+								<span className='font-bold'>On-demand</span> services designed
 								for you
 							</p>
 
 							<p className='mb-5 text-sm font-medium tracking-wide md:text-xl lg:text-2xl'>
-								Make sure you select the perfect handyman for your job by
-								researching their reviews,expertise, and cost. Find a match that
-								boasts all three of these criteria to ensure a successful
-								outcome!
+								Regular, verified and certified soft services
+								professionls/technicians available for your needs.
 							</p>
 
 							<button className='inline-flex h-10 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-custom-yellow p-6 text-sm font-medium tracking-wide text-white transition duration-300 hover:bg-yellow-600 focus:bg-yellow-700 focus-visible:outline-none disabled:cursor-not-allowed disabled:border-yellow-300 disabled:bg-yellow-300 disabled:shadow-none md:text-base'>

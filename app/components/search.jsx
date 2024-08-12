@@ -38,19 +38,21 @@ export default function Search() {
 			</div>
 
 			<div className='flex flex-wrap gap-3 md:gap-5'>
-				{['Furniture Assembly', 'Home Repairs', 'Help Moving'].map(
-					(item, index) => (
-						<span
-							key={index}
-							className='inline-flex cursor-pointer items-center justify-center gap-2 rounded-full border border-custom-green px-4 py-2 text-sm font-semibold text-black transition-colors duration-300 hover:bg-custom-green hover:text-black focus:outline-none focus:ring-2 focus:ring-custom-green focus:ring-offset-2'
-						>
-							{item}
-						</span>
-					)
-				)}
+				{[
+					'HVAC maintenance',
+					'IT repairs and installations',
+					'plumbing works',
+				].map((item, index) => (
+					<span
+						key={index}
+						className='inline-flex cursor-pointer items-center justify-center gap-2 rounded-full border border-custom-green px-4 py-2 text-sm font-semibold text-black transition-colors duration-300 hover:bg-custom-green hover:text-black focus:outline-none focus:ring-2 focus:ring-custom-green focus:ring-offset-2'
+					>
+						{item}
+					</span>
+				))}
 
 				<span className='inline-flex items-center justify-center gap-1 rounded-full text-sm font-semibold text-black'>
-					See more
+					etc.
 				</span>
 			</div>
 		</>

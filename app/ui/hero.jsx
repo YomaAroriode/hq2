@@ -19,8 +19,8 @@ export default function Hero() {
 								</p>
 
 								<p className='mt-6 text-center text-sm md:text-xl lg:text-2xl'>
-									Discover home service providers that can meet your needs.
-									Download the application to get started.
+									Discover facility and hospitality soft services providers that
+									can meet your needs. Download the application to get started.
 								</p>
 
 								<div className='mt-8 flex w-full flex-col items-center justify-center gap-5'>

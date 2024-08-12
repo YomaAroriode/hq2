@@ -23,9 +23,9 @@ export default function SectionThree() {
 
 							<p className='mb-5 text-sm font-medium tracking-wide md:text-xl lg:text-2xl'>
 								Our online customer support team is on hand to help you out -
-								whatever the issue, day or night. we’re here to make sure your
-								delivery arrives promptly and that any bumps in the road are
-								smoothed out quickly!
+								whatever the issue, day or night. We are here to make sure we
+								exceed your expectations, and all your services requests are
+								sorted out quickly!
 							</p>
 
 							<button className='inline-flex h-10 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-custom-yellow p-6 text-sm font-medium tracking-wide text-white transition duration-300 hover:bg-yellow-600 focus:bg-yellow-700 focus-visible:outline-none disabled:cursor-not-allowed disabled:border-yellow-300 disabled:bg-yellow-300 disabled:shadow-none md:text-base'>

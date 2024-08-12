@@ -11,9 +11,10 @@ export default function SectionFour() {
 				</p>
 
 				<p className='text-xm mt-6 text-center md:text-base lg:text-xl'>
-					These hardworking individuals have made valuable contributions to the
-					platform, providing quality services <br /> and consistently
-					delivering exceptional results for their clients.
+					Providers These Professional and hardworking individuals have made
+					valuable contributions to the platform, providing quality services{' '}
+					<br /> and consistently delivering exceptional results for their
+					clients.
 				</p>
 
 				<div className='container mx-auto mt-14 px-5'>
@@ -40,15 +41,12 @@ export default function SectionFour() {
 											<div className='flex w-full flex-col gap-5'>
 												<div className='flex flex-row justify-between'>
 													<p className='font-bold'>Web Design</p>
-													<p>₦100,000</p>
 												</div>
 												<div className='flex flex-row justify-between'>
 													<p className='font-bold'>Web Development</p>
-													<p>₦200,000</p>
 												</div>
 												<div className='flex flex-row justify-between'>
 													<p className='font-bold'>Website management</p>
-													<p>₦50,000</p>
 												</div>
 											</div>
 										</div>

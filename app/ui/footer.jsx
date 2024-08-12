@@ -61,9 +61,9 @@ export default function Footer() {
 									<span className='font-bold'>Get more </span>done on the go
 								</p>
 								<p>
-									Need something done fast? Download the app to book your
-									Hq2’er, message them quickly and even send photos with ease -
-									make it happen now!
+									Need something done fast? Download the app to book your SSP,
+									message them quickly and even send photos with ease - make it
+									happen now!
 								</p>
 
 								<div className='mt-8 flex w-full flex-wrap gap-5'>
