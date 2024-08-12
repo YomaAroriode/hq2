@@ -22,8 +22,8 @@ export default function SectionOne() {
 							</p>
 
 							<p className='mb-5 text-sm font-medium tracking-wide md:text-xl lg:text-2xl'>
-								Regular, verified and certified soft services
-								professionls/technicians available for your needs.
+								Regular, verified and certified soft services professionals &
+								technicians available for your needs.
 							</p>
 
 							<button className='inline-flex h-10 items-center justify-center gap-2 whitespace-nowrap rounded-md bg-custom-yellow p-6 text-sm font-medium tracking-wide text-white transition duration-300 hover:bg-yellow-600 focus:bg-yellow-700 focus-visible:outline-none disabled:cursor-not-allowed disabled:border-yellow-300 disabled:bg-yellow-300 disabled:shadow-none md:text-base'>

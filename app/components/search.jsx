@@ -56,10 +56,6 @@ export default function Search() {
 						{item}
 					</span>
 				))}
-
-				<span className='inline-flex items-center justify-center gap-1 rounded-full text-sm font-semibold text-black'>
-					etc.
-				</span>
 			</div>
 		</>
 	);
